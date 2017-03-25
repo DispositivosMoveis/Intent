@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Intent</string>
+    <string name="ContactList">Button</string>
+    <string name="WebBrowser">Button</string>
+    <string name="PhoneNumber">Button</string>
+    <string name="IntentConfig">Button</string>
 </resources>
